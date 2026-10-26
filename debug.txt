@@ -1,0 +1,6 @@
+Date Built: 2026-10-26T11:59:18.060Z
+    
+VERCEL_GIT_COMMIT_SHA: 19c7f498584a0f9bc749d7afe6c6c8fcb1b737dd
+VERCEL_GIT_COMMIT_MESSAGE: Revert "[MIN-5547] Capture hosted simulations without screen sharing (#7890)" (#7942)
+
+This reverts commit 0754627045a38bfc1339fca2610d0263982d5fc1.
